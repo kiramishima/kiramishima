@@ -1,5 +1,8 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/kiramishima?sub_confirmation=1">Paul Arizpe (aka Kira Mishima)!</a></h1>
 <h3 align="center">A Backend programmer and Data scientist 😜</h3>
+<h5 align="center">
+    <a href="https://github.com/kiramishima/kiramishima/blob/master/README_fr.MD" target="_blank">🇫🇷</a>
+</h5>
 
 
 ## About me
