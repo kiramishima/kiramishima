@@ -1,7 +1,7 @@
 <h1 align="center"> Bonjour 👋, Je m'appelle <a href="https://www.youtube.com/kiramishima?sub_confirmation=1">Paul Arizpe (aka Kira Mishima)!</a></h1>
 <h3 align="center">Developpeur Backend et Scientifique de Données 😜</h3>
 <h5 align="center">
-    <a href="https://github.com/kiramishima/kiramishima/blob/master/README.MD" target="_blank">🇺🇸</a>
+    <a href="https://github.com/kiramishima/kiramishima/blob/master/README.md" target="_blank">🇺🇸</a>
 </h5>
 
 ## Sur moi
