@@ -1,22 +1,24 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/kiramishima?sub_confirmation=1">Paul Arizpe (aka Kira Mishima)!</a></h1>
-<h3 align="center">A Backend programmer and Data scientist 😜</h3>
+<h1 align="center"> Bonjour 👋, Je m'appelle <a href="https://www.youtube.com/kiramishima?sub_confirmation=1">Paul Arizpe (aka Kira Mishima)!</a></h1>
+<h3 align="center">Developpeur Backend et Scientifique de Données 😜</h3>
 
 
-## About me
+## Sur moi
 
-My name´s Paul Arizpe, but all the internet call me *"Kira Mishima"* my name in videogames and internet. I'm mexican developer, I'm Backend Developer with 8 years experience and coming soon Data Scientist (I hope Data Engineer in a future).
-I'm able to speak Spanish (native), French (C1) and English (B1). 
-I have 4🐈, 2 🐕, 🦜 & 🕷️.
-I love videogames, cooking, drawing and reading books.
+Je m'appelle Paul Arizpe, or, la plus part d'internet m'appel *"Kira Mishima"* mon nom de jeux videos et internet. Je suis developpeur mexican, je suis Backend Developeur avec 8 ans d'experience and prochainement Scientifique de Données (j'éspere devenir dans un future Engineur de données).
 
-## 🔭 I’m currently working on...
+Je suis capable de parler en espagnol (native), français (C1) et anglais (B1).
+J'ai 4🐈, 2 🐕, 🦜 & 🕷️.
+J'aime les jeux videos, cuisiner, designer et lire.
 
-Currently, I'm coding the backend with golang and other little projects with PHP and Python.
-I'm certified in Azure and coming soon in AWS and Snowflake.
+## 🔭 Maintenant, je travaille sur...
 
-Also, in my free time, I'm studying the career of Data Science at Rosario Castellanos University. Also I record programming videos for my youtube channel where I try to teach how to use some tools. I hope in a future mix my knowledge of software and data for working as Data Engineer.
+En ce moment Je code le backend avec golang et je fais d'autres petit projets avec PHP et Python.
 
-## Programming Languages and Frameworks that I am specialized
+Je suis certifié à Azure et prochainement à AWS et Snowflake.
+
+Dans mon temp libre, J'etudes la profession de Scientifique de Données dans l'Université Rosario Castellanos. Aussi, J'enregistre programming vidéos pour ma chaîne youtube oú j'essai d'enseigner comment utiliser quelques outils. J'espere dans un future mixer mes conaissances de Software et Données pour devenir Engineur de Données.
+
+## Languages de Programmation et Frameworks donc je suis spécialisé
 
 ![Go](https://img.shields.io/badge/Backend-Go-informational?style=flat&logo=go&logoColor=white&color=success)
  ![PHP](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=PHP&logoColor=white&color=success)
@@ -39,7 +41,7 @@ Also, in my free time, I'm studying the career of Data Science at Rosario Castel
 
 ![kiramishima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiramishima&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-## 🎯 Let's Keep in Touch and Follow me 
+## 🎯 Restons en contact et suivez-moi
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kiramishima)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parizpe/)
@@ -47,7 +49,7 @@ Also, in my free time, I'm studying the career of Data Science at Rosario Castel
 
 
 
-## 🔴 I do some Live Codings! So follow me also on...
+## 🔴 Je fais des codages en direct ! Alors suivez moi aussi sur...
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/kiramishima)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kiramishima)
